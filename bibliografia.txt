@@ -1,3 +1,7 @@
 Servidor de Red e Internet Álvaro García Sánchez
 
+<<<<<<< HEAD
 Redes de Computadoras, James Kurose, mayo 2017
+=======
+Redes de Computadoras, James Kurose
+>>>>>>> bibliografia
